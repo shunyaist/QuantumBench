@@ -5,7 +5,7 @@
 <hr>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2501.16986"><b>arxiv Paper Link</b></a> |
+  <a href="https://arxiv.org/abs/2501.16986"><b>arxiv Paper Link</b></a>
 </p>
 
 <div align="center">
@@ -55,9 +55,9 @@ Table 2 in `QuantumBench.pdf` summarizes the number of problems in each domain/t
 | Difficulty Level | Criteria |
 |-------|----------|
 | Level 1 | A problem whose correct answer can be obtained immediately |
-| Level 2 | A problem with an obvious solution<br>that can be solved with simple calculations |
-| Level 3 | A problem whose solution comes to mind quickly<br>but requires somewhat tedious steps |
-| Level 4 | A problem that requires some thought to discover the solution,<br>or whose solution is obvious but involves considerably tedious steps |
+| Level 2 | A problem with an obvious solution that can be solved with simple calculations |
+| Level 3 | A problem whose solution comes to mind quickly but requires somewhat tedious steps |
+| Level 4 | A problem that requires some thought to discover the solution, or whose solution is obvious but involves considerably tedious steps |
 | Level 5 | A problem whose solution cannot be easily identified |
 
 | Expertise Level | Criteria |
@@ -131,9 +131,6 @@ The full prompt/response objects are serialized to `cache/<job_name>/<question_i
 
 ## Contributing
 Issues and pull requests are welcome. Contributions that improve evaluation workflows, prompt variants, or dataset documentation are especially helpful.
-
-## Contributors
-- Shunya Minami (AIST)
 
 ## Contributors
 - Shunya Minami (AIST)

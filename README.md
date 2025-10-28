@@ -1,6 +1,6 @@
 # QuantumBench
 <div align="center">
-  <img src="images/fig_title.svg" width="100%" alt="QuantumBench" />
+  <img src="images/fig_title.svg" width="80%" alt="QuantumBench" />
 </div>
 
 <p align="center">

@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/XXXX.XXXX"><b>arxiv Paper Link</b></a>
+  <a href="https://arxiv.org/abs/2511.00092"><b>arxiv Paper Link</b></a>
 </p>
 <hr>
 
@@ -148,10 +148,10 @@ This work was performed for Council for Science, Technology and Innovation (CSTI
       title={QuantumBench: A Benchmark for Quantum Question Solving},
       author={Minami, Shunya and Ishigaki, Tatsuya and Hamamura, Ikko and Mikuriya, Taku and Ma, Youmi and Okazaki, Naoaki and Takakura, Hiroya and Suzuki, Yohichi and Kadowaki, Tadashi},
       year={2025},
-      eprint={XXXX.XXXX},
+      eprint={2511.00092},
       archivePrefix={arXiv},
-      primaryClass={quant-ph},
-      url={https://arxiv.org/abs/XXXX.XXXX},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2511.00092},
 }
 ```
 

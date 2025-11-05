@@ -144,7 +144,7 @@ This work was performed for Council for Science, Technology and Innovation (CSTI
 
 ## Citaion
 ```
-@misc{minami2025generative,
+@misc{minami2025quantumbench,
       title={QuantumBench: A Benchmark for Quantum Question Solving},
       author={Minami, Shunya and Ishigaki, Tatsuya and Hamamura, Ikko and Mikuriya, Taku and Ma, Youmi and Okazaki, Naoaki and Takakura, Hiroya and Suzuki, Yohichi and Kadowaki, Tadashi},
       year={2025},
